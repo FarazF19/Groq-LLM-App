@@ -3,3 +3,6 @@ langchain
 python-dotenv
 openai
 langchain_groq
+fastapi
+uvicorn
+langserve
