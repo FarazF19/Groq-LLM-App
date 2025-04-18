@@ -7,3 +7,5 @@ fastapi
 uvicorn
 langserve
 langchain_community
+transformers
+langchain_chroma
